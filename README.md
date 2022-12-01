@@ -15,3 +15,7 @@ Recording some elegant sentences of writing.
 ### Words
 - unbinding (解绑), fetch, enhance, alternately, deficiencies (不足之处), entail (蕴含 v.), unaffordable, incline to (倾向于)
 - simultaneously (同时), elastic (灵活的), redundant (冗余的),  Consequently (所以),  retain (保留 v.), barrier, confine (局限 v.)
+
+### Conjunction
+- Furthermore, Moreover
+- By XXXX, ...
