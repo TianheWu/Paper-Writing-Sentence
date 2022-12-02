@@ -31,3 +31,14 @@ Recording some elegant sentences of writing.
 - By XXXX, ...
 - Subsequently (随后)
 - Additionally
+
+## Adaptive Patch Exiting for Scalable Single Image Super-Resolution
+### Sentences
+
+
+### Words
+
+
+### Conjunction
+
+
