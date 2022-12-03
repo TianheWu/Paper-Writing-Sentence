@@ -34,9 +34,14 @@ Recording some elegant sentences of writing.
 
 ## Adaptive Patch Exiting for Scalable Single Image Super-Resolution
 ### Sentences
-
+- we present XXXXX
+- Inspired by the fact that XXXX
+- To be more specific, 
+- Super-resolution aims to recover XXXX
 
 ### Words
+- enable, cascading (级联 v.), layer-wise (逐层 adj.),  saturated (饱和的 adj.), optimal (最佳 adj.)
+- analyze, use, explore, propose, present, build, exploit, design, extend, investigate, train (Related work)
 
 
 ### Conjunction
