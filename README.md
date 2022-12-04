@@ -38,6 +38,8 @@ Recording some elegant sentences of writing.
 - Inspired by the fact that XXXX
 - To be more specific, 
 - Super-resolution aims to recover XXXX
+- However, they rely on the pixel-wise sparse convolution, which is not hardware-friendly and achieves limited practical speedup
+- the trade-off between performance and efficiency is still **under-explored** to the best of our knowledge.
 
 ### Words
 - enable, cascading (级联 v.), layer-wise (逐层 adj.),  saturated (饱和的 adj.), optimal (最佳 adj.)
