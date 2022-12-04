@@ -36,10 +36,12 @@ Recording some elegant sentences of writing.
 ### Sentences
 - we present XXXXX
 - Inspired by the fact that XXXX
-- To be more specific, 
 - Super-resolution aims to recover XXXX
 - However, they rely on the pixel-wise sparse convolution, which is not hardware-friendly and achieves limited practical speedup
 - the trade-off between performance and efficiency is still **under-explored** to the best of our knowledge.
+- All the layers share the same regressor
+- As for the efficiency of APE, Table 2 shows the XXXX
+- Our method adds a lightweight regressor whose FLOPs is negligible (微不足道的 adj.).
 
 ### Words
 - enable, cascading (级联 v.), layer-wise (逐层 adj.),  saturated (饱和的 adj.), optimal (最佳 adj.)
@@ -47,5 +49,5 @@ Recording some elegant sentences of writing.
 
 
 ### Conjunction
-
+- To be more specific, 
 
