@@ -53,15 +53,16 @@ Recording some elegant sentences of writing.
 
 ## Restore Globally, Refine Locally: A Mask-Guided Scheme to Accelerate Super-Resolution Networks
 ### Sentences
-
+- Instead of developing new SR networks, a recent trend is to reduce the parameter amount and/or FLOPs of existing ones while maintaining their SR capability.
+- In this work, we aim to accelerate general SR networks while preserving their SR capability.
+- However, handling different areas simply by multiple SR networks with adaptive depths still suffers from significant parameter growth.
 
 ### Words
-- deploy (部署 v.)
-
-
+- deploy (部署 v.), essential, incorporate (包含v.), employ (采用 v.)
 
 ### Conjunction
-
+- To alleviate this problem
+- To this end (为了达到此目的)
 
 
 
