@@ -64,9 +64,19 @@ Recording some elegant sentences of writing.
 - To alleviate this problem
 - To this end (为了达到此目的)
 
+## Efficient Long-Range Attention Network for Image Super-resolution
+### Sentences
+- Recently, transformer-based methods have demonstrated impressive results in various vision tasks, including image super-resolution (SR), by exploiting the self-attention (SA) for feature extraction.
+- Extensive experiments demonstrate that ELAN obtains even better results against the transformer-based SR models but with significantly less complexity.
+- We therefore aim to build a highly neat and efficient SR model, where the LR to HR image mapping is simply built by stacking local feature extraction operations and SA sequentially.
 
 
+### Words
+- prevalent (流行的 adj.), fragmented (支离破碎的), 
 
+### Conjunction
+- Without bells and whistles (没有花里胡哨的)
+- Generally speaking (通常来说)
 
 
 
