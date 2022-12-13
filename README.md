@@ -78,10 +78,17 @@ Recording some elegant sentences of writing.
 - Without bells and whistles (没有花里胡哨的)
 - Generally speaking (通常来说)
 
+## Metric Learning Based Interactive Modulation for Real-World Super-Resolution
+### Sentences
+-  Since then, motivated by the promising performance of CNN, several CNN-based SR methods have been proposed.
+- Realizing the importance of the network depth, [17] designed a 20-layer network with residual blocks. [49] then combined residual learning and dense connection to extend the network depth to 100 layers.
+- Before we delve into the details of the unsupervised degradation estimation module (UDEM), we first present the controllable dimensions for real-world interactive modulation. 
 
+### Words
+- complicated (复杂的 adj.), attain (达到 v.), delve into (钻研), explicit (明确的 adj.), corrupted (损坏的 adj.), artifacts are visually (视觉上 adv.) more like noise, 
 
-
-
+### Conjunction
+- Nevertheless (尽管如此), Concretely (具体地, )
 
 
 
