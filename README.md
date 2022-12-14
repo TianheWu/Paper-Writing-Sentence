@@ -91,7 +91,20 @@ Recording some elegant sentences of writing.
 - Nevertheless (尽管如此), Concretely (具体地, )
 
 
+## Blind Super-Resolution With Iterative Kernel Correction
+### Sentences
+- Our method stems from the observation that artifacts caused by kernel mismatch have regular patterns.
+- A straightforward solution is to
+- However, accurate estimation of k is impossible. As the inverse problem is ill-posed, there exists multiple candidates of k for a single input.
+- The above phenomenon illustrates that the estimation error of k will be significantly magnified by the SR model, resulting in unnatural output images.
+- Figure 8 shows the SISR results on real world image from the Historic dataset. For comparison, the A+ [31] and CARN [2] are used as the representative SR methods with bicubic downsampling, and ZSSR [27] is used as the representative blind SR method.
 
+### Words
+- interference (干涉 n.)
+
+
+### Conjunction
+- For simplicity,
 
 
 
