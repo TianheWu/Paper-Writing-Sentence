@@ -99,6 +99,8 @@ Recording some elegant sentences of writing.
 - The above phenomenon illustrates that the estimation error of k will be significantly magnified by the SR model, resulting in unnatural output images.
 - Figure 8 shows the SISR results on real world image from the Historic dataset. For comparison, the A+ [31] and CARN [2] are used as the representative SR methods with bicubic downsampling, and ZSSR [27] is used as the representative blind SR method.
 - Although defined as blind SR problem, our method focuses on a limited variety of kernels and noise. But the kernel estimated according to our assumptions can handle most of the real world images.
+-  The kernel settings are given in Table 1.
+-  It is worth noting that
 
 ### Words
 - interference (干涉 n.)
