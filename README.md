@@ -99,8 +99,9 @@ Recording some elegant sentences of writing.
 - The above phenomenon illustrates that the estimation error of k will be significantly magnified by the SR model, resulting in unnatural output images.
 - Figure 8 shows the SISR results on real world image from the Historic dataset. For comparison, the A+ [31] and CARN [2] are used as the representative SR methods with bicubic downsampling, and ZSSR [27] is used as the representative blind SR method.
 - Although defined as blind SR problem, our method focuses on a limited variety of kernels and noise. But the kernel estimated according to our assumptions can handle most of the real world images.
--  The kernel settings are given in Table 1.
--  It is worth noting that
+- The kernel settings are given in Table 1.
+- It is worth noting that
+- We claim that
 
 ### Words
 - interference (干涉 n.)
@@ -110,8 +111,20 @@ Recording some elegant sentences of writing.
 - For simplicity,
 
 
+## Unfolding the Alternating Optimization for Blind Super Resolution
+### Sentences
+- It is a highly ill-posed problem due to this inverse property, and thus has always been a challenging task. (描述任务难度)
+- Despite that CARN achieves remarkable results in the context of bicubic downsampling, it suffers severe performance drop when applied to images with unknown blur kernels.
+- It can be mathematically expressed an optimization problem: (数学表达公式)
+- where the former part is the reconstruction term
+- Previous methods decompose this problem into two **sequential** steps:
+- where M(·) denotes the function that estimates k from y (数学符号描述)
 
+### Words
+- be analytically expressed, 
 
+### Conjunction
+- Towards these issues, 
 
 
 
