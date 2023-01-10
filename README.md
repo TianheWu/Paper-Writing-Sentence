@@ -127,6 +127,14 @@ Recording some elegant sentences of writing.
 - Towards these issues, 
 
 
+## Blind Image Super-resolution with Elaborate Degradation Modeling on Noise and Kernel
+### Sentences
 
 
+### Words
+- rational(合理的 adj.), elaborately(精心地 adv.), explicit(明确的 adj.), concise(简洁的 adj.), substantiated(有根据的 adj.), 
+
+
+
+### Conjunction
 
