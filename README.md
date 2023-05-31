@@ -1,6 +1,20 @@
 # Paper-Writing-Sentence
 Recording some elegant sentences of writing.
 
+
+
+
+
+### Describe what we do
+- In this paper, we **go beyond** the conventional paradigms by exploring the rich visual language prior encapsulated in Contrastive Language-Image Pre-training (CLIP) models for assessing both the quality perception (look) and abstract perception (feel) of images without explicit taskspecific training.
+- Inspired by the appealing property of CLIP, we hypothesize that CLIP could have captured the relationship between human language and visual perception for image assessment.
+- We begin our exploration by delving into the selection of prompts so that potential vagueness due to linguistic ambiguity can be minimized.
+
+### Describe the experiment results
+- As shown in Table 1, without the need of hand-crafted features, CLIP-IQA is **comparable** to BRISQUE and surpasses all other non-learning methods on all three benchmarks. In addition, even without task-specific training, CLIP-IQA outperforms CNNIQA, which requires training with annotations. The surprisingly good performance of CLIP-IQA verifies its potential in the task of NR-IQA.
+
+
+
 ## ScalableViT: Rethinking the Context-oriented Generalization of Vision Transformer
 ### Sentences
 - To mitigate this issue, we propose ...
