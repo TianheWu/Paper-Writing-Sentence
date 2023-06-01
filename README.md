@@ -2,7 +2,10 @@
 Recording some elegant sentences of writing.
 
 
-
+### Describe the key point
+- In stark contrast, BIQA relies preferentially on distortion-sensitive features to quantify the perceptual quality of images of various semantic content.
+- From extensive experimental results, we arrive at a positive answer to the highlighted question: BIQA can indeed benefit from both scene classification and distortion type identification.
+- Our method differs significantly from theirs [62] both conceptually and computationally.
 
 
 ### Describe what we do
