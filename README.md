@@ -1,17 +1,23 @@
 # Paper-Writing-Sentence
 Recording some elegant sentences of writing.
 
+### Describe the issues
+- While it is nearly effortless for humans to quickly assess the perceptual similarity between two images, the underlying processes are thought to be quite complex.
+- 
+
 
 ### Describe the key point
 - In stark contrast, BIQA relies preferentially on distortion-sensitive features to quantify the perceptual quality of images of various semantic content.
 - From extensive experimental results, we arrive at a positive answer to the highlighted question: BIQA can indeed benefit from both scene classification and distortion type identification.
 - Our method differs significantly from theirs [62] both conceptually and computationally.
+- Our results suggest that perceptual similarity is an emergent property shared across deep visual representations.
 
 
 ### Describe what we do
 - In this paper, we **go beyond** the conventional paradigms by exploring the rich visual language prior encapsulated in Contrastive Language-Image Pre-training (CLIP) models for assessing both the quality perception (look) and abstract perception (feel) of images without explicit taskspecific training.
 - Inspired by the appealing property of CLIP, we hypothesize that CLIP could have captured the relationship between human language and visual perception for image assessment.
 - We begin our exploration by delving into the selection of prompts so that potential vagueness due to linguistic ambiguity can be minimized.
+- We systematically evaluate deep features across different architectures and tasks and compare them with classic metrics.
 
 ### Describe the experiment results
 - As shown in Table 1, without the need of hand-crafted features, CLIP-IQA is **comparable** to BRISQUE and surpasses all other non-learning methods on all three benchmarks. In addition, even without task-specific training, CLIP-IQA outperforms CNNIQA, which requires training with annotations. The surprisingly good performance of CLIP-IQA verifies its potential in the task of NR-IQA.
